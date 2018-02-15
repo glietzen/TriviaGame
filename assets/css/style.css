@@ -1,0 +1,62 @@
+#ans1,
+#ans2,
+#ans3,
+#ans4 {
+    display: inline-block;
+    width: 50%;
+    margin: 5px;
+}
+
+.header-text {
+    font-family: 'Pacifico';
+    font-size: 60px;
+    margin: 30px auto;
+}
+
+.main-body {
+    font-family: 'Roboto Condensed';
+    word-spacing: .1em;
+}
+
+h3 {
+    text-align: center;
+}
+
+body {
+    background-image: linear-gradient(rgba(10, 8, 114, 0.8), rgba(10, 8, 114, 0.8)), url(../img/royals.jpg);
+    height: 100vh;
+    background-size: cover;
+    color: #fff;
+}
+
+.btn:hover {
+    background: #fff;
+    color: rgba(10, 8, 114, 1);
+}
+
+.resetBtn {
+    margin: auto;
+}
+
+.answer-div {
+    margin: auto;
+    text-align: center;
+}
+
+.question-div {
+    text-align: center;
+}
+
+.container {
+    background: rgba(0, 0, 0, 0);
+}
+
+.start-btn {
+    margin: auto;
+}
+
+.logo {
+    border-radius: 50%;
+    height: 100px;
+    margin: 30px;
+}
